@@ -25,7 +25,7 @@ Here are some of the awesome langauges, tools and stuff that I've curated over m
 - **Cold showers**: Ah yes, such a good methodology. Sometimes when I couldn't shower I put myself in the fridge for 5 minutes, this is 100% the only thing responsible for my success in life.
 - **Coffee**: Ah yes, where would I be without coffee, probably in the store buying some coffee 😆 AM I RIGHT ???? WHERE MY COFFEE DRINKERS AT ??? ☕ 😅 "DEVELOPERS TRANSFORM CODE INTO COFFEE" - Steve Jobs, 2020 🤔.
 - **MANagment**: When in position of power, abuse it. Once I was a clerk at the local ice-cream booth and there was this spoiled brat who asked me if he can have an ice-cream, I told him to fix his attitude first - you cannot always get what you want kiddo, he ran away crying. Doomed generation am I right?
-- **Post-it not ese**: Here's a free life-hack for you youngesters out there - how can you tell if a project is important? By the amount of post-it notes used to describe it. If your project does not use at least 1000 post-it notes and not even in different colours - your career is officially doomed.
+- **Post-it not ese**: Here's a free life-hack for you youngsters out there - how can you tell if a project is important? By the amount of post-it notes used to describe it. If your project does not use at least 1000 post-it notes and not even in different colours - your career is officially doomed.
 - **Bob Martin-ism**: There is this old guy with hair (*surprisingly he kept it*) and he's talking about things as if they are important, listen to him and one day you will be paid to do opposite of your job description and make big buck for many new developers who will be hired to handle your mess. (*P.S It's not a coinsidence I share my last name with him as I'm his equal like Harry Potter is to Voldemort*).
 - **Chair**: Are chairs real?
 
@@ -41,7 +41,7 @@ Here are some of the awesome langauges, tools and stuff that I've curated over m
 
 🥇 Certificates
 - **Cable manager V2**: I'm authorized to carry any type of cable.
-- **Java Spring, Summer, Autnum and Winter: 4 seasons championship edition expert**: I'm a good coffee drinker, what can I say.
+- **Java Spring, Summer, Autumn and Winter: 4 seasons championship edition expert**: I'm a good coffee drinker, what can I say.
 - **OOP(S)**: I'm pardoned for any spillage when carrying coffee.
 - **Chess: Queen's Gambit edition**: I have this because I thought it's somehow related to cheese.
 - **JavaScript Hipster god-level threat to startup industry**: I use jabbba script for everything, I have replaced my lymph nodes with node.js, GP thought it was a bad idea but I told him it's best practice these days and he should stop using IE4.
@@ -51,6 +51,7 @@ Here are some of the awesome langauges, tools and stuff that I've curated over m
 - **JIRA psychopath level 100 Shitty ticket writer**: My manager asked me to post his certificate on this list, he has to be included in evertying I do, his name is Dave. (*Dave says hi 👋 btw.*)
 - **Sea++ defeating the purpose edition with non-zero cost zero-cost abstractions**: I have mastered the art of ignoring reality, my software would run as fast as yours if I had more CPU power and faster RAM. My 10,000$ gaming PC is clearly outdated, I've had it for 4 months now.
 - **Hello, World in any language**: Little known fact, I can write a "hello world" program, which makes me an expert at all things programming related and I'm entitled to give my opinion on everything even things that I've never heard about.
+- **Spineless Corpo NPC**: I agree with my superiors on everything because I want money.
 
 ## Final notes
 I cant read or type. What is this?
