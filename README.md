@@ -26,12 +26,18 @@ Here are some of the awesome langauges, tools and stuff that I've curated over m
 - **Coffee**: Ah yes, where would I be without coffee, probably in the store buying some coffee 😆 AM I RIGHT ???? WHERE MY COFFEE DRINKERS AT ??? ☕ 😅 "DEVELOPERS TRANSFORM CODE INTO COFFEE" - Steve Jobs, 2020 🤔.
 - **MANagment**: When in position of power, abuse it. Once I was a clerk at the local ice-cream booth and there was this spoiled brat who asked me if he can have an ice-cream, I told him to fix his attitude first - you cannot always get what you want kiddo, he ran away crying. Doomed generation am I right?
 - **Post-it not ese**: Here's a free life-hack for you youngesters out there - how can you tell if a project is important? By the amount of post-it notes used to describe it. If your project does not use at least 1000 post-it notes and not even in different colours - your career is officially doomed.
-- **Bob Martin-ism**: There is this old guy with hair (*surprisingly he kept it*) and he's talking about things as if they are important, listen to him and one day you will be paid to do opposite of your job description and make big buck for many new developers who will be hired to handle your mess. ((P.S It's not a coinsidence I share my last name with him as I'm his equal like Harry Potter is to Voldemort*).
+- **Bob Martin-ism**: There is this old guy with hair (*surprisingly he kept it*) and he's talking about things as if they are important, listen to him and one day you will be paid to do opposite of your job description and make big buck for many new developers who will be hired to handle your mess. (*P.S It's not a coinsidence I share my last name with him as I'm his equal like Harry Potter is to Voldemort*).
 - **Chair**: Are chairs real?
 
 🍿 Movies
 - **Steve Jobs**: This is a movie about a guy called Steve who is a genius inventor and another man Steve who wears turtlenecks. Very inspirational, I'm now building a website in my garage.
 - **Game of Thrones**: This movie is amazing, it perfectly captures what finishing a 1 year project in 5 months is like.
+- **My SCRUM manager went to Narnia and thought it was McDonalds**: Based on a true story.
+
+📚 Books
+- **Clean Code**: Absolute pinnacle of programmer knowledge that can be summed up in not only 1 but 2 sentences: "Don't write your code like you got 5 minutes to live" and "Uncle Bob Martin is a typical Java developer".
+- **Design Patterns**: I love this book, so useful man, all the patterns like: Singleton, Singleton 2, Singleton: pigeon just landed on my window, Singleton 3, ft. Drake, Singleton (2021). 
+- **I Am a Garbage Truck**: Sometimes I see people throw garbage on the street and pick it up. It makes me feel good again and 5 minutes later I'm attempting to summon demons of Selzar and have them strike down arrogant deuchebag/deuchebagguette who thinks it's cool to litter.
 
 ## Final notes
 I cant read or type. What is this?
