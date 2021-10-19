@@ -39,5 +39,17 @@ Here are some of the awesome langauges, tools and stuff that I've curated over m
 - **Design Patterns**: I love this book, so useful man, all the patterns like: Singleton, Singleton 2, Singleton: I'm a kanban machine, Singleton 3 ft. Pitbull and Singleton (2021). 
 - **I Am a Garbage Truck**: Sometimes I see people throw garbage on the street. I quickly pick it up. It makes me feel good again and 5 minutes later I'm attempting to summon demons of Selzar and have them strike down arrogant deuchebag/deuchebaguette who thought it's cool to litter.
 
+🥇 Certificates
+- **Cable manager V2**: I'm authorized to carry any type of cable.
+- **Java Spring, Summer, Autnum and Winter: 4 seasons championship edition expert**: I'm a good coffee drinker, what can I say.
+- **OOP(S)**: I'm pardoned for any spillage when carrying coffee.
+- **Chess**: I have this because I thought it's somehow related to cheese.
+- **JavaScript Hipster god-level threat to startup industry**: I use jabbba script for everything, I have replaced my lymph nodes with node.js, GP thought it was a bad idea but I told him it's best practice these days and he should stop using IE4.
+- **Applesoft Binbows 8 apprentice**: My favorite Linux distro is Windows Vista and I use it every day.
+- **Programming Electric Cars with HTML5**: Sadly I don't have a car to test my HTML5 autopilot on 😢.
+- **Chair heating expert: enterprise edition**: I have mastered the craft of doing nothing for 3 hours after I'm done with work.
+- **JIRA psychopath level 100 Shitty ticket writer**: My manager asked me to post his certificate on this list, he has to be included in evertying I do, his name is Dave. (*Dave says hi 👋 btw.*)
+- **Hello, World in any language**: Little known fact, I can write a "hello world" program, which makes me an expert at all things programming related and I'm entitled to give my opinion on everything even things that I've never heard about.
+
 ## Final notes
 I cant read or type. What is this?
