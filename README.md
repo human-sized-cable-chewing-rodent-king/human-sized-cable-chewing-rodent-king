@@ -17,6 +17,7 @@ Here are some of the awesome langauges, tools and stuff that I've curated over m
 - **Rust**: Unlike dust, this one is much harder to deal with, but this makes it much more rewarding. WD-40/10.
 - **React J Ass**: This adaptation of Fine Brothers epic series took some getting used to but it's definetly worth your time.
 - **See++**: Before discovering See++ I was blind, hopeless fool, living in a small world that I thought was all there is. Now, I'm lost and have no idea what the fuck is going on, but my friends are cheering me on, apparently it's modern to be lost and play it cool. 10/10 I'm modern.
-- **Pee HP**: I stumbled upon this one whilist shopping for a new laptop. Needless to say I was utterly surprised, almost as if it was pretending to be a real piece of tech. For that surprise factor I give it a nice 1024/512.
+- **Pee HP**: Good paperweight, if you are weird or need something to pass your drug tests.
 - **Lara Well**: She is well, we are penpals.
-- 
+
+:scr
