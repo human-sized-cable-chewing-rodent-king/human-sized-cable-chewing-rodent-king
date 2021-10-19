@@ -49,6 +49,7 @@ Here are some of the awesome langauges, tools and stuff that I've curated over m
 - **Programming Electric Cars with HTML5**: Sadly I don't have a car to test my HTML5 autopilot on 😢.
 - **Chair heating expert: enterprise edition**: I have mastered the craft of doing nothing for 3 hours after I'm done with work.
 - **JIRA psychopath level 100 Shitty ticket writer**: My manager asked me to post his certificate on this list, he has to be included in evertying I do, his name is Dave. (*Dave says hi 👋 btw.*)
+- **Sea++ defeating the purpose edition with non-zero cost zero-cost abstractions**: I have mastered the art of ignoring reality, my software would run as fast as yours if I had more CPU power and faster RAM. My 10,000$ gaming PC is clearly outdated, I've had it for 4 months now.
 - **Hello, World in any language**: Little known fact, I can write a "hello world" program, which makes me an expert at all things programming related and I'm entitled to give my opinion on everything even things that I've never heard about.
 
 ## Final notes
