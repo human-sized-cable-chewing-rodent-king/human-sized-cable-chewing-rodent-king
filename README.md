@@ -1,4 +1,4 @@
-### Ratthews githubIN profile
+# 🐀 Ratthews githubIn profile 🐀
 I'm a professional tech blogger and software engineer. I believe in future where software empowers every aspect of our lives and lets us all achieve goals previously thought impossible. I'm passionate about culture and world as a whole and strongly believe that this world is unique and should be protected at any cost from pollution and other wrongdoings. I'm personally contributing to preservation of our great planet by:
 - not driving a car (*not only because I don't own one*)
 - creating a lot of electron apps (*because power which we don't use is wasted - duuh*)
