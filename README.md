@@ -43,7 +43,7 @@ Here are some of the awesome langauges, tools and stuff that I've curated over m
 - **Cable manager V2**: I'm authorized to carry any type of cable.
 - **Java Spring, Summer, Autnum and Winter: 4 seasons championship edition expert**: I'm a good coffee drinker, what can I say.
 - **OOP(S)**: I'm pardoned for any spillage when carrying coffee.
-- **Chess**: I have this because I thought it's somehow related to cheese.
+- **Chess: Queen's Gambit edition**: I have this because I thought it's somehow related to cheese.
 - **JavaScript Hipster god-level threat to startup industry**: I use jabbba script for everything, I have replaced my lymph nodes with node.js, GP thought it was a bad idea but I told him it's best practice these days and he should stop using IE4.
 - **Applesoft Binbows 8 apprentice**: My favorite Linux distro is Windows Vista and I use it every day.
 - **Programming Electric Cars with HTML5**: Sadly I don't have a car to test my HTML5 autopilot on 😢.
