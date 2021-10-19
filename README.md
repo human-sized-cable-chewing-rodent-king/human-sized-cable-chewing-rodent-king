@@ -37,7 +37,7 @@ Here are some of the awesome langauges, tools and stuff that I've curated over m
 📚 Books
 - **Clean Code**: Absolute pinnacle of programmer knowledge that can be summed up in not only 1 but 2 sentences: "Don't write your code like you got 5 minutes to live" and "Uncle Bob Martin is a typical Java developer".
 - **Design Patterns**: I love this book, so useful man, all the patterns like: Singleton, Singleton 2, Singleton: I'm a kanban machine, Singleton 3, ft. Drake and Singleton (2021). 
-- **I Am a Garbage Truck**: Sometimes I see people throw garbage on the street and pick it up. It makes me feel good again and 5 minutes later I'm attempting to summon demons of Selzar and have them strike down arrogant deuchebag/deuchebagguette who thought it's cool to litter.
+- **I Am a Garbage Truck**: Sometimes I see people throw garbage on the street. I quickly pick it up. It makes me feel good again and 5 minutes later I'm attempting to summon demons of Selzar and have them strike down arrogant deuchebag/deuchebagguette who thought it's cool to litter.
 
 ## Final notes
 I cant read or type. What is this?
