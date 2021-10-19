@@ -9,6 +9,14 @@ I'm a professional tech blogger and software engineer. I believe in future where
 
 ## Tools & affiliate links
 Here are some of the awesome langauges, tools and stuff that I've curated over my 42 years of working as an assistant manager at FAANG, BAANG, DAANG ... etc.
+
+👨‍💻 Tech
 - **Javas crypt**: It's my favorite album ever, at first I thought it was a parody of original Java, but then I realized it's much more original, very cool NaN/10.
 - **Electron**: My favorite particle ever. Honestly, I wish I was an Electron.
 - **DJ Ava**: Classic, I don't think my words could cover importance of this one, but I will try anyways: monumental discovery eqvivalent to realization that earth is actually a rhombus suspended in air by a flock of seagulls pulling on it from above.
+- **Rust**: Unlike dust, this one is much harder to deal with, but this makes it much more rewarding. WD-40/10.
+- **React J Ass**: This adaptation of Fine Brothers epic series took some getting used to but it's definetly worth your time.
+- **See++**: Before discovering See++ I was blind, hopeless fool, living in a small world that I thought was all there is. Now, I'm lost and have no idea what the fuck is going on, but my friends are cheering me on, apparently it's modern to be lost and play it cool. 10/10 I'm modern.
+- **Pee HP**: I stumbled upon this one whilist shopping for a new laptop. Needless to say I was utterly surprised, almost as if it was pretending to be a real piece of tech. For that surprise factor I give it a nice 1024/512.
+- **Lara Well**: She is well, we are penpals.
+- 
