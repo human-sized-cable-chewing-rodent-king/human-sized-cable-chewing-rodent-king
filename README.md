@@ -7,7 +7,7 @@ I'm a professional tech blogger and software engineer. I believe in future where
 - 150g of beans (*it's 2021, wake up people ...*)
 - fart in the general direction of people who commit any wrongdoings (*I don't fart, figure of speech ...*)
 
-## Tools & affiliate links
+## Tools and skills
 Here are some of the awesome langauges, tools and stuff that I've curated over my 42 years of working as an assistant manager at FAANG, BAANG, DAANG ... etc.
 
 👨‍💻 Tech
@@ -23,5 +23,5 @@ Here are some of the awesome langauges, tools and stuff that I've curated over m
 ⏲️ Methodologies
 - **SCRUM**: This is my favorite thing ever, wow so useful, amazing, I aged 10 years in 2 months, I give ticket DYN42 "dying speedrun" value of 2.
 - **Cold showers**: Ah yes, such a good methodology. Sometimes when I couldn't shower I put myself in the fridge for 5 minutes, this is 100% the only thing responsible for my success in life.
-- **Coffee**: Ah yes, where would I be without coffee, probably in the store buying some coffee 😆 AM I RIGHT ???? WHERE MY COFFEE DRINKERS AT ??? ☕ 😅 "DEVELOPERS TRANSFORM CODE INTO COFFEE" - Jteve Sobs, 1890 🤔.
+- **Coffee**: Ah yes, where would I be without coffee, probably in the store buying some coffee 😆 AM I RIGHT ???? WHERE MY COFFEE DRINKERS AT ??? ☕ 😅 "DEVELOPERS TRANSFORM CODE INTO COFFEE" - Steve Jobs, 2020 🤔.
 - **MANagment**: When in position of power, abuse it. Once I was a clerk at the local ice-cream booth and there was this spoiled brat who asked me if he can have an ice-cream, I told him to fix his attitude first - you cannot always get what you want kiddo, he ran away crying. Doomed generation am I right? Also why is management not called womangement? Pretty sexist if you ask me.
