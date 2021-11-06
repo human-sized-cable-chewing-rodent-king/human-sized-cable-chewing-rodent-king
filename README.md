@@ -8,7 +8,7 @@ I'm a professional tech blogger and software engineer. I believe in future where
 - fart in the general direction of people who commit any wrongdoings (*I don't fart, figure of speech ...*)
 
 ## Tools and skills
-Here are some of the awesome langauges, tools and stuff that I've curated over my 42 years of working as an assistant manager at FAANG, BAANG, DAANG ... etc.
+Here are some of the awesome langauges, tools and stuff that I've curated over my 42 years of working as an assistant manager at FAANG, BAANG, DAANG, MAAAN ... etc.
 
 👨‍💻 Tech
 - **Javas crypt**: It's my favorite album ever, at first I thought it was a parody of original Java, but then I realized it's much more original, very cool NaN/10.
